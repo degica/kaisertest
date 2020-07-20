@@ -1,0 +1,19 @@
+PATH
+  remote: /Users/davidsiaw/work/kaiser
+  specs:
+    kaiser (0.4.5)
+      optimist
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    optimist (3.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kaiser!
+
+BUNDLED WITH
+   2.1.4
