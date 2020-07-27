@@ -1,0 +1,5 @@
+plugin :database
+
+dockerfile 'Dockerfile'
+
+def_db :postgres
